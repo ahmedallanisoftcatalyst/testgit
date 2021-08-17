@@ -1,0 +1,1 @@
+change some setting in database to work in production
